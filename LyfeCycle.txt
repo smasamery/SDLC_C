@@ -16,4 +16,6 @@ Implentation
 Maintenance
 
 Methodologies
+Waterfall
+Lean
 
